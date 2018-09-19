@@ -3,6 +3,49 @@
 # Weekly Updates :
 
 <h1>
+09/19 - 09/26
+</h1>
+
+**Challenges Overcome / Questions :**
+
+   1) Data splitting (Chronology, random etc)
+   2) Formulating K-NN approach with above split mechanism
+   3) Metrics on which the value of K is chosen
+
+<h3> Anusha Prakash </h3>
+
+**Status of Previous week Tasks :**
+
+   * Completed  
+   * Recommended slight modification of user-user similarity task formulation to improve the results 
+   
+
+**Upcoming Tasks:**
+
+   1) Implement the modified version of user-user similarity task using KNN.
+   2) Implement the modified version of user-user similarity task using PMF.
+   3) Statistical analysis supporting the chronological split of training - dev data.
+   4) Stretch goal: Start looking at the content of the comments to extract additional features.
+  
+
+<h3> Srividya Potharaju </h3>
+
+**Status of Previous week Tasks :**
+
+   * Completed
+   * Recommended slight modification of user-(user+thread) similarity task formulation to improve the results 
+
+
+**Upcoming Tasks:**
+
+   1) Implement the modified version of user-thread similarity task using KNN.
+   2) Implement the modified version of user-user similarity task using PMF.
+   3) Exploring metrics for evaluating the above approaches (F1, MAP, MRR etc).
+   4) Stretch goal: Start looking at the content of the comments to extract additional features.
+  
+
+
+<h1>
 09/12 - 09/19
 </h1>
 
