@@ -3,6 +3,47 @@
 # Weekly Updates :
 
 <h1>
+09/26 - 10/03
+</h1>
+
+**Challenges Overcome / Questions :**
+
+   1) Had an elaborate discussion with Prof Ed and decided to shift focus to content based feature extraction to facilitate user-user recommendation, whilst keeping the implemented KNN approach as the baseline
+   2) Designed a plan and defined sub tasks including fingerprinting, matching and tracking for user-user recommendation
+
+<h3> Anusha Prakash </h3>
+
+**Status of Previous week Tasks :**
+
+   * Completed 3 (full) and 1 (partial)
+   * Based on the mid week discussion with Prof Ed, we prioritized stretch goal over the other tasks for the week
+
+
+**Upcoming Tasks:**
+
+   1) Based on the discussion with Prof Ed, create a document summarizing the approach for handling multiple components of the system with timely update of results
+   2) Obtain Metadata for users and do feature engineering on it for the given task
+   3) Explore neural approaches to deal with sparsity in user metadata
+   
+  
+
+<h3> Srividya Potharaju </h3>
+
+**Status of Previous week Tasks :**
+
+   * Completed 3 (full) and 1 (partial)
+   * Based on the mid week discussion with Prof Ed, we prioritized stretch goal over the other tasks for the week
+
+
+**Upcoming Tasks:**
+
+   1) Based on the discussion with Prof Ed, create a document summarizing the approach for handling multiple components of the system with timely update of results
+   2) Obtain Metadata for users and do feature engineering on it for the given task
+   3) Explore neural approaches to deal with sparsity in user metadata
+   
+  
+
+<h1>
 09/19 - 09/26
 </h1>
 
