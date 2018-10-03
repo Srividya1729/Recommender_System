@@ -2,6 +2,45 @@
 
 # Weekly Updates :
 
+
+<h1>
+10/03 - 10/10
+</h1>
+
+**Challenges Overcome / Questions :**
+
+   1) Validating the neural approach on sparsity of metadata particular to the case of cancer survivor network 
+  
+
+<h3> Anusha Prakash </h3>
+
+**Status of Previous week Tasks :**
+
+   * (1 and 3) fully Completed, 2 partially completed 
+
+
+**Upcoming Tasks:**
+
+   1) Complete feature engineering of user metadata for the given task
+   2) Implement a bag of words based feature vector using unigrams for user-content part of user profile.
+   3) Decide on the relevant metrics and validate the above approach for the chosen metric
+   
+  
+
+<h3> Srividya Potharaju </h3>
+
+**Status of Previous week Tasks :**
+
+   * (1 and 3) fully Completed, 2 partially completed 
+  
+
+**Upcoming Tasks:**
+
+   1) Complete feature engineering of user metadata for the given task
+   2) Implement tf-idf based feature vector using bigrams for user-content part of user profile
+   3) Decide on the relevant metrics and validate the above approach for the chosen metric
+
+
 <h1>
 09/26 - 10/03
 </h1>
