@@ -2,6 +2,59 @@
 
 # Weekly Updates :
 
+<h1>
+10/10 - 10/17
+</h1>
+
+**Challenges Overcome / Questions :**
+
+   1) Handling sparseness of vocabulary for higher order n-gram features
+   2) LDA, K-means clustering takes very long time 
+  
+
+<h3> Anusha Prakash </h3>
+
+**Status of Previous week Tasks :**
+
+   1. Completed (Performed detailed metadata analysis, and realized that extent of sparsity is too much - need to discuss further whether to use or not)
+   2. Completed 
+   3. Partially completed and need to confirm with Prof
+   
+   Additionally, have done extra tasks:
+   
+   1. Implemented k-means clustering of unigram
+   2. SVD on the co-occurence matrix and plotted the clusters and analyses the clusters formed
+   3. LDA based topic modeling
+
+
+**Upcoming Tasks:**
+
+   1) Extract NER based features for the user-thread content
+   2) Train word2vec using the co-occurence statistics
+   3) More depth on LDA based topics and extract semantic features
+   
+  
+
+<h3> Srividya Potharaju </h3>
+
+**Status of Previous week Tasks :**
+
+   1. Completed (Performed detailed metadata analysis, and realized that extent of sparsity is too much - need to discuss further whether to use or not)
+   2. Completed 
+   3. Partially completed and need to confirm with Professor.
+   
+   Additionally, have done extra tasks:
+   
+   1. Implemented k-means clustering of bigram
+   2. SVD on the co-occurence matrix and plotted the clusters and analyses the clusters formed
+   3. LDA based topic modeling
+
+
+**Upcoming Tasks:**
+
+   1) Extract Sentiment based features for the user-thread content
+   2) Train word2vec using the co-occurence statistics of bigram
+   3) More depth on LDA based topics and extract semantic features
 
 <h1>
 10/03 - 10/10
