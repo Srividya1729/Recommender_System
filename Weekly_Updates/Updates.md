@@ -29,9 +29,10 @@
 
 **Upcoming Tasks:**
 
-   1) Extract NER based features for the user-thread content
-   2) Train word2vec using the co-occurence statistics
-   3) More depth on LDA based topics and extract semantic features
+   1) Perform statistical analysis to identify the most likely time period for matching 
+   2) Design and implement matching mechanism using different models
+   3) Come up with the best suited distance metric for above models.
+   4) Extract LDA based topics and incorporate them in user-representation
    
   
 
@@ -45,16 +46,16 @@
    
    Additionally, have done extra tasks:
    
-   1. Implemented k-means clustering of bigram
-   2. SVD on the co-occurence matrix and plotted the clusters and analyses the clusters formed
-   3. LDA based topic modeling
+   1. Implemented k-means clustering of bigram and analyzed the clusters
+   2. LDA based topic modeling
 
 
 **Upcoming Tasks:**
 
-   1) Extract Sentiment based features for the user-thread content
-   2) Train word2vec using the co-occurence statistics of bigram
-   3) More depth on LDA based topics and extract semantic features
+   1) Perform statistical analysis to identify the most likely time period for matching 
+   2) Design and implement matching mechanism using different models
+   3) Come up with the best suited distance metric for above models.
+   4) Extract LDA based topics and incorporate them in user-representation
 
 <h1>
 10/03 - 10/10
