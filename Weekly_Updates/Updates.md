@@ -3,6 +3,48 @@
 # Weekly Updates :
 
 <h1>
+10/17 - 10/24
+</h1>
+
+**Challenges Overcome / Questions :**
+
+   1) Handling large data to train Neural Model (cuda memory issues)
+  
+
+<h3> Anusha Prakash </h3>
+
+**Status of Previous week Tasks :**
+
+   1. Completed
+   2. Completed - Neural MLP and CF-based KNN Model
+   3. Completed - Experimented with Cosine and Dot 
+   4. Completed
+
+**Upcoming Tasks:**
+
+   1) Extract NER features and incorporate those features in matching
+   2) Aspect level sentiment analysis
+   3) Literature survey on other possible neural networks for matching process
+   
+  
+
+<h3> Srividya Potharaju </h3>
+
+**Status of Previous week Tasks :**
+     
+   1. Completed
+   2. Completed - Neural MLP and CF-based KNN Model
+   3. Completed - Experimented with Cosine and Dot 
+   4. Completed
+
+**Upcoming Tasks:**
+
+   1) Extract NER features and incorporate those features in matching
+   2) Aspect level sentiment analysis
+   3) Literature survey on other possible neural networks for matching process
+
+
+<h1>
 10/10 - 10/17
 </h1>
 
