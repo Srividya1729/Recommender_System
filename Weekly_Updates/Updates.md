@@ -3,6 +3,47 @@
 # Weekly Updates :
 
 <h1>
+10/24 - 10/31
+</h1>
+
+**Challenges Overcome / Questions :**
+
+   1) For Aspect Level Sentiment, pretrained models not satisfactory, annotated corpus not available 
+   2) For NER features, pretrained apis not satisfactory, need annotated corpus 
+  
+
+<h3> Anusha Prakash </h3>
+
+**Status of Previous week Tasks :**
+
+   1 and 2 partially completed, with not satisfactory results, needs discussion with mentor
+   2. Completed 
+   3. Completed 
+
+**Upcoming Tasks:**
+
+   1) Implement LSTM based representation of the User's comments and threads' content
+   2) Implement CNN based representation of User's content
+   3) Train End to End with previous representations including matching process.
+   
+  
+<h3> Srividya Potharaju </h3>
+
+**Status of Previous week Tasks :**
+     
+   1 and 2 partially completed, with not satisfactory results, needs discussion with mentor
+   3. Completed 
+  
+
+**Upcoming Tasks:**
+
+   1) Implement LSTM based representation of the User's comments and threads' content
+   2) Implement CNN based representation of User's content
+   3) Train End to End with previous representations including matching process.
+   
+
+
+<h1>
 10/17 - 10/24
 </h1>
 
