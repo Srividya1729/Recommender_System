@@ -17,7 +17,6 @@
 **Status of Previous week Tasks :**
 
    1 and 2 partially completed, with not satisfactory results, needs discussion with mentor
-   2. Completed 
    3. Completed 
 
 **Upcoming Tasks:**
