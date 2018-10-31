@@ -3,6 +3,51 @@
 # Weekly Updates :
 
 <h1>
+10/31 - 11/07
+</h1>
+
+**Challenges Overcome / Questions :**
+
+   1) Data preprocessing with multiple comments by user on same item. 
+   2) Open Question, large variance on the ratings. 
+  
+
+<h3> Anusha Prakash </h3>
+
+**Status of Previous week Tasks :**
+   
+   1. Since we went deeper with CNN, we plan to discuss with Advisor regarding LSTM.
+   2 and 3. We experimented with DeepCoNN and NARRE( Neural Attentional Regression with Review-level Explanations) that jointly uses users and thread representations using TextCNN.
+   
+
+**Upcoming Tasks:**
+
+   1) End to End training of DeepCoNN including threads' body content. (subject to change after discussing with Prof ).
+   2) End to End training of NARRE including threads' body content.
+   3) Explore Deep AutoEncoder based approach for recommendations 
+   
+  
+<h3> Srividya Potharaju </h3>
+
+     
+**Status of Previous week Tasks :**
+   
+   1. Since we went deeper with CNN, we plan to discuss with Advisor regarding LSTM.
+   2 and 3. We experimented with DeepCoNN and NARRE( Neural Attentional Regression with Review-level Explanations) that jointly uses users and thread representations using TextCNN.
+   
+
+**Upcoming Tasks:**
+
+   1) End to End training of DeepCoNN including threads' body content. (subject to change after discussing with Prof )
+   2) End to End training of NARRE including threads' body content.
+   3) Explore Deep AutoEncoder based approach for recommendations 
+      
+
+
+
+
+
+<h1>
 10/24 - 10/31
 </h1>
 
