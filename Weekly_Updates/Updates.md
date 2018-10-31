@@ -16,8 +16,8 @@
 
 **Status of Previous week Tasks :**
    
-   1. Since we went deeper with CNN, we plan to discuss with Advisor regarding LSTM.
-   2 and 3. We experimented with DeepCoNN and NARRE( Neural Attentional Regression with Review-level Explanations) that jointly uses users and thread representations using TextCNN.
+   1) Since we went deeper with CNN, we plan to discuss with Advisor regarding LSTM.
+   2) and 3. We experimented with DeepCoNN and NARRE( Neural Attentional Regression with Review-level Explanations) that jointly uses users and thread representations using TextCNN.
    
 
 **Upcoming Tasks:**
@@ -32,8 +32,8 @@
      
 **Status of Previous week Tasks :**
    
-   1. Since we went deeper with CNN, we plan to discuss with Advisor regarding LSTM.
-   2 and 3. We experimented with DeepCoNN and NARRE( Neural Attentional Regression with Review-level Explanations) that jointly uses users and thread representations using TextCNN.
+   1) Since we went deeper with CNN, we plan to discuss with Advisor regarding LSTM
+   2)  and 3 We experimented with DeepCoNN and NARRE( Neural Attentional Regression with Review-level Explanations) that jointly uses users and thread representations using TextCNN.
    
 
 **Upcoming Tasks:**
