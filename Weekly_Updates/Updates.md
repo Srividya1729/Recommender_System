@@ -15,8 +15,8 @@
 
 **Status of Previous week Tasks :**
    
-  1) and 2 After discussing with Prof, we trained with binary values in ratings matrix
-  3) Completed
+  * 1 and 2 After discussing with Prof, we trained with binary values in ratings matrix
+  * 3 Completed
 
 **Upcoming Tasks:**
 
@@ -30,8 +30,8 @@
      
 **Status of Previous week Tasks :**
 
-  1) and 2 After discussing with Prof, we trained with binary values in ratings matrix
-  3) Completed
+  * 1 and 2 After discussing with Prof, we trained with binary values in ratings matrix
+  * 3 Completed
 
 **Upcoming Tasks:**
 
