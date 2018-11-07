@@ -3,6 +3,45 @@
 # Weekly Updates :
 
 <h1>
+11/07 - 11/14
+</h1>
+
+**Challenges Overcome / Questions :**
+
+   1) Rating matrix intuition from the data. 
+  
+
+<h3> Anusha Prakash </h3>
+
+**Status of Previous week Tasks :**
+   
+  1) and 2 After discussing with Prof, we trained with binary values in ratings matrix
+  3) Completed
+
+**Upcoming Tasks:**
+
+   1) Literature survey on different memory network based architecture that can fit user thread recommendation scenario
+   2) Implement flat attention with LSTM based architecture for user representation from the comments.
+   3) Implement hierarchical attention (word and sentence level) with LSTM based architecture for user representation from the comments.
+   
+  
+<h3> Srividya Potharaju </h3>
+
+     
+**Status of Previous week Tasks :**
+
+  1) and 2 After discussing with Prof, we trained with binary values in ratings matrix
+  3) Completed
+
+**Upcoming Tasks:**
+
+   1) Literature survey on different memory network based architecture that can fit user thread recommendation scenario
+   2) Implement flat attention with LSTM based architecture for user representation from the comments.
+   3) Implement hierarchical attention (word and sentence level) with LSTM based architecture for user representation from the comments.
+   
+
+
+<h1>
 10/31 - 11/07
 </h1>
 
@@ -42,10 +81,6 @@
    2) End to End training of NARRE including threads' body content.
    3) Explore Deep AutoEncoder based approach for recommendations 
       
-
-
-
-
 
 <h1>
 10/24 - 10/31
