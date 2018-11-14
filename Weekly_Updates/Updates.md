@@ -3,6 +3,44 @@
 # Weekly Updates :
 
 <h1>
+11/14 - 11/21
+</h1>
+
+**Challenges Overcome / Questions :**
+
+   1) Long review texts for each user. 
+  
+
+<h3> Anusha Prakash </h3>
+
+**Status of Previous week Tasks :**
+   
+  * 1 and 3 Completed
+  * 2 We are finalizing on the architecture for the final model and validating it with the advisor tomorrow
+
+**Upcoming Tasks:**
+
+   1) Implement Sentence encoding based representation for user reviews
+   2) Finalize and start implementing the final architecture (flat attention + memory / flat attention) 
+   3) Compare its performance with NARRE and DeepCoNN results
+   
+  
+<h3> Srividya Potharaju </h3>
+
+     
+**Status of Previous week Tasks :**
+   
+  * 1 and 3 Completed
+  * 2 We are finalizing on the architecture for the final model and validating it with the advisor tomorrow
+
+**Upcoming Tasks:**
+
+   1) Implement Sentence encoding based representation for user reviews
+   2) Finalize and start implementing the final architecture (flat attention + memory / flat attention) 
+   3) Compare its performance with NARRE and DeepCoNN results
+   
+
+<h1>
 11/07 - 11/14
 </h1>
 
