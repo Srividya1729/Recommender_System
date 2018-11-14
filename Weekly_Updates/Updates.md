@@ -23,6 +23,7 @@
    1) Implement Sentence encoding based representation for user reviews
    2) Finalize and start implementing the final architecture (flat attention + memory / flat attention) 
    3) Compare its performance with NARRE and DeepCoNN results
+   4) Strategy to combine deep learning based representations with previously developed handcrafted feature based representations to have a hybrid recommendation system
    
   
 <h3> Srividya Potharaju </h3>
@@ -38,6 +39,7 @@
    1) Implement Sentence encoding based representation for user reviews
    2) Finalize and start implementing the final architecture (flat attention + memory / flat attention) 
    3) Compare its performance with NARRE and DeepCoNN results
+   4) Strategy to combine deep learning based representations with previously developed handcrafted feature based representations to have a hybrid recommendation system
    
 
 <h1>
