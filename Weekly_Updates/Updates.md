@@ -3,6 +3,49 @@
 # Weekly Updates :
 
 <h1>
+11/21 - 11/28
+</h1>
+
+**Challenges Overcome / Questions :**
+
+   1) Timestamp based user profile 
+  
+
+<h3> Anusha Prakash </h3>
+
+**Status of Previous week Tasks :**
+   
+  * 1 and 3 Completed
+  * 2 and 4 We changed our strategy and decided to create user profile and data set using timestamp information 
+
+**Upcoming Tasks:**
+
+   1) Implement sentence based representation for the timestamp based user profile
+   2) Implement the final architecture (flat attention + memory / flat attention) 
+   3) Compare its performance with NARRE and DeepCoNN results
+   
+  
+<h3> Srividya Potharaju </h3>
+
+
+**Status of Previous week Tasks :**
+   
+  * 1 and 3 Completed
+  * 2 and 4 We changed our strategy and decided to create user profile and data set using timestamp information 
+
+**Upcoming Tasks:**
+
+   1) Implement sentence based representation for the timestamp based user profile
+   2) Implement the final architecture (flat attention + memory / flat attention) 
+   3) Compare its performance with NARRE and DeepCoNN results
+      
+
+
+
+
+
+
+<h1>
 11/14 - 11/21
 </h1>
 
