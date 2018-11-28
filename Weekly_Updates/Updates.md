@@ -3,7 +3,45 @@
 # Weekly Updates :
 
 <h1>
-11/21 - 11/28
+11/28 - 12/05
+</h1>
+
+**Challenges Overcome / Questions :**
+
+   1) Timestamp based user profile 
+  
+
+<h3> Anusha Prakash </h3>
+
+**Status of Previous week Tasks :**
+   
+  * 1 Completed 
+  * 2 Partially completed
+
+**Upcoming Tasks:**
+
+   1) Finish the implementation of the final architecture (flat attention ) 
+   2) Compare the results of all models and do error analysis
+   3) Write the report and make the final presentation 
+   
+  
+<h3> Srividya Potharaju </h3>
+
+
+**Status of Previous week Tasks :**
+   
+  * 1 Completed 
+  * 2 Partially completed
+
+**Upcoming Tasks:**
+
+   1) Finish the implementation of the final architecture (flat attention ) 
+   2) Compare the results of all models and do error analysis
+   3) Write the report and make the final presentation 
+         
+
+<h1>
+11/28 - 12/05
 </h1>
 
 **Challenges Overcome / Questions :**
@@ -39,11 +77,6 @@
    2) Implement the final architecture (flat attention + memory / flat attention) 
    3) Compare its performance with NARRE and DeepCoNN results
       
-
-
-
-
-
 
 <h1>
 11/14 - 11/21
